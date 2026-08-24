@@ -1,0 +1,25 @@
+# Swap AAVE — Aave Governance Token Swap Reference
+
+> Exchange the Aave protocol governance token (AAVE) for USDC and other assets through a non-custodial decentralized exchange.
+
+## Key Facts
+- Asset: AAVE — governance token of the Aave lending protocol (ERC-20); volatile, no peg
+- Ethereum contract: 0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9
+- Networks: canonical on Ethereum; bridged versions on Polygon, Arbitrum and others
+- Custody: non-custodial — swaps settle through public smart contracts; wallet signs
+- Approvals: spending AAVE needs a one-time ERC-20 approval for the router
+- Costs: DEX pool fee + network gas + price impact
+- Common route: AAVE -> USDC
+
+## Internal Sections & App Navigation
+- [What is Swap AAVE?](#what)
+- [How AAVE swaps work](#how)
+- [AAVE & the Aave protocol](#aave)
+- [Networks](#networks)
+- [Fees, gas & price impact](#fees)
+- [Is AAVE safe to swap?](#safety)
+- [FAQ](#faq)
+- [Open Swap AAVE App](dashboard/index.html)
+
+## Disclaimer
+Independent page. Not affiliated with Aave. Not financial advice.

@@ -1,0 +1,12 @@
+{
+  "name": "Swap AAVE",
+  "short_name": "Swap AAVE",
+  "description": "Exchange the Aave protocol governance token (AAVE) for USDC and other assets through a non-custodial decentralized exchange.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [{ "src": "aave.png", "sizes": "any", "type": "image/png", "purpose": "any" }]
+}
